@@ -1,0 +1,32 @@
+body{
+    font-family: Garamond, serif;
+    font-size: 18px;
+}
+header, footer{
+    background-color:rgb(169, 207, 239);
+}
+.site-title{
+    color:rgb(5, 118, 26);
+}
+#my-image{
+    box-shadow: 0 0 2px 1px black;
+}
+ul{
+    list-style: square;
+}
+ul:not(.site-nav) li:nth-child(odd){
+    background-color: yellow;
+}
+.site-nav{
+    list-style: none;
+}
+.site-nav a{
+    text-decoration: none;
+    font-size: 22px;
+    padding: 10px;
+    display: inline-block;
+}
+.site-nav a:hover{
+    background-color: white;
+    color: black;
+}
