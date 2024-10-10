@@ -21,6 +21,7 @@ ul:not(.site-nav) li:nth-child(odd){
     list-style: none;
 }
 .site-nav a{
+    background-color: rgb(132, 212, 232);
     text-decoration: none;
     font-size: 22px;
     padding: 10px;
