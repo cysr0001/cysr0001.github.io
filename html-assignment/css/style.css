@@ -25,8 +25,10 @@ ul:not(.site-nav) li:nth-child(odd){
     font-size: 22px;
     padding: 10px;
     display: inline-block;
+    border: black 1px solid;
 }
 .site-nav a:hover{
     background-color: white;
     color: black;
+    border: black 1px solid;
 }
