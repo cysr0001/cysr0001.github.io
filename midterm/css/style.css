@@ -120,18 +120,12 @@ form textarea{
     width: 100%;
     height: 8em;
     padding: 10px;
-    margin-bottom: 10px;
 }
 form input[type="radio"], .radio-label{
     margin-right: 10px;
 }
-form input[type="radio"] {
-    margin-right: 20px;
-    padding: 0 20px;
-}
 .radio-group{
     margin-bottom: 10px;
-    display: flex;
     padding-right: 10px;
 }
 /* Styling the submit button */
